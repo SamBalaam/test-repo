@@ -6,6 +6,10 @@
 
 // this is a second something
 
+//this is a third something
+
+//this is now something else
+
 function validateForm(){
 var x=document.forms["contact"]["email"].value;
 var atpos=x.indexOf("@");
